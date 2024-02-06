@@ -15,3 +15,10 @@
 
 Вывод команды show warnings;
 
+![4](https://github.com/mmau5/index/blob/master/Screenshot%20from%202024-02-06%2016-24-47.png)
+
+убрала film f, f.title и добавила join к таблицам
+
+![5](https://github.com/mmau5/index/blob/master/Screenshot%20from%202024-02-06%2016-28-45.png)
+
+вывод explain analyze
